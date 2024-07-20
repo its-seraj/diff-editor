@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.monaco-container-root {
+  padding: 5px;
+  width: 100vw;
+  height: 100vh;
+}
+
+.monaco-container {
+  height: 100%;
+  width: 100%;
+  border: 2px solid #666;
+  border-radius: 12px;
+  overflow: hidden;
+}
