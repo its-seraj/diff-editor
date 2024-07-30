@@ -14,6 +14,7 @@ export const App = () => {
           theme: "vs",
           mouseWheelZoom: true,
           smoothScrolling: true,
+          readOnly: false,
           scrollbar: {
             horizontalScrollbarSize: 4,
             verticalScrollbarSize: 4,
